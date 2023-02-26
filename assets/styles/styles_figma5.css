@@ -180,7 +180,6 @@ ul li {
 
 .cont3_title {
     display: flex;
-    background-color: rosybrown;
     display: flex;
     flex-direction: row;
     padding-top: 200px;
@@ -202,7 +201,6 @@ ul li {
 }
 
 .cont3_info_wrap {
-    background-color: royalblue;
     display: flex;
     flex-direction: row;
     padding-left: 426px;
@@ -215,6 +213,103 @@ ul li {
 
 .cont3_info_item2 {
     margin-right: 230px;
+}
+
+.cont3_info_wrap2 {
+    display: flex;
+    flex-direction: row;
+    margin-top: 19px;
+}
+
+.cont3_data1,
+.cont3_data3 {
+    width: 350px;
+    height: 68px;
+}
+
+.cont3_data1,
+.cont3_data2,
+.cont3_data3 {
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 18px;
+    letter-spacing: o.6px;
+    color: #242121;
+}
+
+.cont3_data1 {
+    margin-left: 360px;
+    margin-right: 74px;
+}
+
+.cont3_data2 {
+    width: 350px;
+    height: 71px;
+    margin-right: 76px;
+}
+
+.cont3_waves {
+    display: flex;
+    flex-direction: row;
+    margin-left: 360px;
+    margin-top: 102px;
+}
+
+.waves_items {
+    width: 346px;
+    height: 158px;
+}
+
+.waves_text {
+    width: 600px;
+    height: 158px;
+    margin-left: 300px;
+}
+
+.waves_text1,
+.waves_text2 {
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 18px;
+}
+
+.waves_text2 {
+    margin-top: 30px;
+}
+
+/*Container4*/
+
+.container4 {
+    width: 1920px;
+    height: 200px;
+    background-color: #F8F8F8;
+}
+
+.cont4_title {
+    font-family: 'Roboto Condensed';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 40px;
+    letter-spacing: 0.6px;
+    color: #242121;
+    padding-left: 672px;
+    padding-top: 81px;
+}
+
+.cont4_phrase {
+    font-family: 'Roboto Condensed';
+    font-style: italic;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 18px;
+    letter-spacing: 0.6px;
+    color: #242121;
+    padding-left: 1121px;
 }
 
 /*Footer*/
