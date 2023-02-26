@@ -216,3 +216,16 @@ ul li {
 .cont3_info_item2 {
     margin-right: 230px;
 }
+
+/*Footer*/
+
+.footer_space {
+    height: 200px;
+    width: 1920px;
+    background-color: #00B2A0;
+}
+
+.footer_pic {
+    padding-left: 930px;
+    padding-top: 68px;
+}
